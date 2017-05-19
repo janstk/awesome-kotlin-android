@@ -154,20 +154,6 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [kotlin.logging](https://github.com/MicroUtils/kotlin.logging) - A logging framework for Kotlin
 - [KotlinDiscreteMathToolkit](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete math functionalities.
 
-## Samples
-
-- [kotlin-examples](https://github.com/JetBrains/kotlin-examples)
-- [Tachiyomi](https://github.com/inorichi/tachiyomi)
-- [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin)
-- [AndroidRivers](https://github.com/dodyg/AndroidRivers)
-- [MaterialAudiobookPlayer](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)
-- [Kotlin for Android Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers)
-- [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example)
-- [Kotlin101](https://github.com/dodyg/Kotlin101)
-- [kotlin_android_base_framework](https://github.com/nekocode/kotlin_android_base_framework)
-- [kotlillon](https://github.com/inaka/kotlillon)
-- [Today History](https://github.com/MakinGiants/todayhistory): app that shows what happened today in history.
-
 
 ## Tutorials
 - [Kotlin for Android (I~IV)](http://antonioleiva.com/kotlin/)
@@ -178,34 +164,6 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit)
 - [Kotlin for cross platform mobile app development](https://robovm.com/kotlin-for-cross-platform-mobile-app-development/)
 - [Learn Kotlin while developing an Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
-
-## Articles
-- [Early Impressions of Kotlin](http://natpryce.com/articles/000815.html)
-- [Better Annotation Processing: Supporting Stubs in kapt](http://blog.jetbrains.com/kotlin/2015/06/better-annotation-processing-supporting-stubs-in-kapt/)
-- [One month with Kotlin](https://medium.com/@ademar111190/one-month-with-kotlin-2d3d9bbd7840#.73d5en952)
-- [Kotlin my productivity language](https://medium.com/@mplatvoet/kotlin-6a09afc655b9#.ut2k99bvl)
-- [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.sxlaz9821)
-- [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
-- [The Kobalt diaries: Android](http://beust.com/weblog/2015/11/04/the-kobalt-diaries-android/)
-- [Exploring the Kotlin standard library](http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/)
-- [Swift is like Kotlin](http://nilhcem.github.io/swift-is-like-kotlin/)
-- [Backlog Android: From Java to Kotlin With Lots of Fun](https://nulab-inc.com/blog/nulab/backlog-android-from-java-to-kotlin-with-lots-of-fun/)
-- [Type-safe Web with Kotlin](https://jaxenter.com/type-safe-web-with-kotlin-106187.html)
-
-
-## Videos
-- [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
-- [Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
-- [Functional Programming with Kotlin](https://www.youtube.com/watch?v=AhA-Q7MOre0&feature=youtu.be)
-- [I built an app in Kotlin, and my client still paid me](https://www.youtube.com/watch?v=d7BiXy3Qdt8&feature=youtu.be)
-- [Programming Android with Kotlin](https://www.youtube.com/watch?v=011AL3Z6VmM&feature=youtu.be)
-
-
-## Books
-
-- [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers) - This book is not meant to be a language reference, but a tool for Android developers to learn Kotlin and be able to continue with their own projects by themselves.
-- [Kotlin in Action (MEAP)](https://www.manning.com/books/kotlin-in-action) - Kotlin in Action takes experienced Java developers from the language basics all the way through building applications to run on the JVM and Android devices. 
-- [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin) - Programming Kotlin is aimed at Java developers who want to make the transition to Kotlin. It covers the complete Kotlin language from basic sytax through to concurrency and testing.
 
 
 ## Tools
