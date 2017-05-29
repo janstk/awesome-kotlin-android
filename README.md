@@ -153,6 +153,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [KotlinTest](https://github.com/kotlintest/kotlintest) - A kotlin test framework inspired by ScalaTest
 - [kotlin.logging](https://github.com/MicroUtils/kotlin.logging) - A logging framework for Kotlin
 - [KotlinDiscreteMathToolkit](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete math functionalities.
+- [PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library.
 
 
 ## Tutorials
