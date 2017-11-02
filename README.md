@@ -180,6 +180,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 ## Resources
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
 - [Kotlin Trending on Github](https://github.com/trending/kotlin?since=monthly)
+- [Kotlin Academy](https://blog.kotlin-academy.com/)
 
 ## Others
 - [kotlin-for-android-developers-zh](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
