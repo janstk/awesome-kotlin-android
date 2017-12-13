@@ -176,6 +176,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [kotlin-plugin-eclipse](https://marketplace.eclipse.org/content/kotlin-plugin-eclipse) - The Kotlin Plugin for Eclipse helps you write, run, debug and test programs in Kotlin language. 
 - [android-parcelable-intellij-plugin-kotlin](https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin) - Plugin which generates Android Parcelable boilerplate code in Intellji/Android Studio.
 - [CodeGlance](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
+- [Kotlin Programming By Example](https://www.packtpub.com/application-development/kotlin-programming-example-video) - Video course for Kotlin newbies and beginners in Android development
 
 ## Resources
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
