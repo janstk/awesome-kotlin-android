@@ -180,6 +180,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Kotlin Programming By Example](https://www.packtpub.com/application-development/kotlin-programming-example-video) - Video course for Kotlin newbies and beginners in Android development
 
 ## Resources
+- [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
 - [/r/Kotlin](https://www.reddit.com/r/Kotlin/)
 - [Kotlin Trending on Github](https://github.com/trending/kotlin?since=monthly)
 - [Kotlin Academy](https://blog.kotlin-academy.com/)
