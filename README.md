@@ -166,6 +166,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit)
 - [Kotlin for cross platform mobile app development](https://robovm.com/kotlin-for-cross-platform-mobile-app-development/)
 - [Learn Kotlin while developing an Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+- [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers)
 
 
 ## Tools
